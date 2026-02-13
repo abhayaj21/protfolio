@@ -56,13 +56,17 @@ nav a:hover {
     color: #1877F2;
 }
 
+.active{
+    color: #1877F2;
+}
+
 .nav-line {
     background-color: #1877F2;
 }
 
-.first-child {
+/* .first-child {
     color: #1877F2;
-}
+} */
 
 .heading {
     color: #050505;

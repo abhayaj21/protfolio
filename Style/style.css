@@ -186,6 +186,14 @@ nav a:hover .nav-line {
     width: 100%;
 }
 
+.active
+{
+    .nav-line{
+        width: 100%;
+    }
+    color: #ffbf00;
+}
+
 .nav-line {
     width: 0%;
     height: 3px;
@@ -198,9 +206,9 @@ nav a:hover .nav-line {
 }
 
 
-.first-child {
+/* .first-child {
     color: #ffbf00;
-}
+} */
 
 /* about me */
 
