@@ -1,0 +1,124 @@
+body {
+    background-color: #F0F2F5;
+    color: #65676B;
+}
+
+.sidebar {
+    background-color: #FFFFFF;
+    border-color: #DADDE1;
+}
+
+.main-content {
+    background-color: #FFFFFF;
+    border-color: #DADDE1;
+}
+
+.profile img {
+    border-color: #DADDE1;
+}
+
+.profile h2 {
+    color: #050505;
+}
+
+.profile span {
+    background-color: #E7F3FF;
+    color: #1877F2;
+}
+
+.contact {
+    border-color: #DADDE1;
+}
+
+.label,
+.value {
+    color: #65676B;
+}
+
+.social {
+    border-color: #DADDE1;
+}
+
+.cvbtn a {
+    background-color: #1877F2;
+    color: #E7F3FF;
+}
+
+.navigation {
+    border-color: #DADDE1;
+}
+
+.nav a {
+    color: #65676B;
+}
+
+nav a:hover {
+    color: #1877F2;
+}
+
+.nav-line {
+    background-color: #1877F2;
+}
+
+.first-child {
+    color: #1877F2;
+}
+
+.heading {
+    color: #050505;
+}
+
+.line {
+    background-color: #1877F2;
+}
+
+.item {
+    background-color: #E7F3FF;
+    border-color: #DADDE1;
+}
+
+.item img {
+    filter: brightness(0) saturate(100%) invert(46%) sepia(53%) saturate(7107%) hue-rotate(203deg) brightness(98%) contrast(93%);
+}
+
+.item:hover {
+    box-shadow: 0px 0px 10px 5px #DCEBFF;
+}
+
+.project:hover
+{
+    box-shadow: 0px 0px 10px 5px #DCEBFF;
+}
+
+.year,
+.institue,
+.work {
+    color: #65676B;
+}
+
+.bulet-point {
+    border: 3px solid #1877F2;
+    z-index: 10;
+}
+
+.liner {
+    border-color: #DADDE1;
+}
+
+.project {
+    background-color: #FFFFFF;
+    border-color: #DADDE1;
+}
+
+.card h3 {
+    color: #65676B;
+}
+
+.card p {
+    color: #65676B;
+}
+
+.card span {
+    color: #1877F2;
+    background-color: #DCEBFF;
+}
